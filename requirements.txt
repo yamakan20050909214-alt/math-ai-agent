@@ -3,3 +3,6 @@ google-genai
 pydantic
 pillow
 python-dotenv
+sympy
+numpy
+matplotlib
