@@ -1,0 +1,13 @@
+# Pythonのキャッシュ
+__pycache__/
+*.pyc
+
+# ユーザーの個人データ
+user_data_*.json
+user_data.json
+
+# システムの不要ファイル
+.DS_Store
+Thumbs.db
+
+math_ai_env/
